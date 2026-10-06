@@ -1,0 +1,17 @@
+REPEAT STUDIO - SAMPLE AUDIO
+
+The four short English phrases were written specifically for this demo.
+Their audio was synthesized locally using the Flite SLT voice through
+FFmpeg's flite filter. The sample is computer-generated speech, not a
+recording of a tutor or a native-speaker pronunciation course.
+
+Flite: Carnegie Mellon University, Language Technologies Institute.
+Project: https://github.com/festvox/flite
+License information: https://github.com/festvox/flite/blob/master/COPYING
+
+No Flite or FFmpeg executable, source code, or voice model is distributed
+in this package. Only the generated demonstration audio is embedded.
+The original tool authors do not endorse this product.
+
+The application uses system fonts, browser APIs, and simple interface icons
+drawn specifically for this project. It has no third-party runtime libraries.
